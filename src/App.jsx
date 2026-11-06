@@ -233,7 +233,6 @@ const services = [
   { icon: Landmark, title: "Written-off or settled accounts", text: "Get help understanding how these entries appear in your report." },
   { icon: ShieldCheck, title: "Unknown accounts", text: "Review accounts or enquiries you do not recognise and understand how to raise a concern." },
   { icon: RefreshCw, title: "Report corrections", text: "Get guidance on outdated or incorrect details and the dispute process." },
-  { icon: ClipboardCheck, title: "Dispute support", text: "Get help preparing documents and following up with the concerned lender or bureau." },
 ];
 
 const processSteps = [
